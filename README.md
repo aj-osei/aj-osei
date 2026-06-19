@@ -8,9 +8,6 @@ I am a recent Computer Science graduate with hands-on experience in a Security O
 My goal is to continue building my cybersecurity skills and grow into an entry-level SOC Analyst, Cybersecurity Analyst, or Information Security Analyst role. I am especially interested in blue team work, SIEM analysis, incident response, phishing investigation, and threat detection.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-## Skills
 
 | Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
