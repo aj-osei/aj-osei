@@ -11,7 +11,7 @@ My goal is to continue building my cybersecurity skills and grow into an entry-l
 
 | Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis | <a href="https://github.com/YOUR_USERNAME/wazuh-siem-lab">Wazuh SIEM Detection Lab</a> |
+| SIEM Implementation and Log Analysis | <a href="https://github.com/aj-osei/Wazuh-SIEM-Detection-Lab/blob/main/README.md">Wazuh SIEM Detection Lab</a> |
 | Active Directory Administration and Windows Security | <a href="https://github.com/YOUR_USERNAME/active-directory-lab">Active Directory Home Lab</a> |
 
 ## Tools
