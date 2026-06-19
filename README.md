@@ -63,8 +63,8 @@ My goal is to continue building my cybersecurity skills and grow into an entry-l
 ## Certifications
 
 <div>
-    <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=comptia&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ISC2_Certified_in_Cybersecurity_(CC)-006400?&style=for-the-badge&logoColor=white" />
+    <a href="https://www.credly.com/badges/233779b2-7c93-4da6-8503-e25eed3c931e/public_url"><img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=comptia&logoColor=white" />
+    <a href="https://www.credly.com/badges/1bf536fd-87cf-4366-a409-7ee150aa1760/public_url"><img src="https://img.shields.io/badge/-ISC2_Certified_in_Cybersecurity_(CC)-006400?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
